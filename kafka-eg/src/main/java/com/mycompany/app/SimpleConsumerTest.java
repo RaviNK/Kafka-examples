@@ -17,7 +17,7 @@ import java.util.Map;
 import java.util.Properties;
 
 /**
- * Created by dhiraj on 24/12/15.
+ * Created by ravi on 24/12/15.
  */
 public class SimpleConsumerTest {
 

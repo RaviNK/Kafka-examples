@@ -7,7 +7,7 @@ import kafka.utils.VerifiableProperties;
 import org.apache.log4j.Logger;
 
 /**
- * Created by dhiraj on 28/12/15.
+ * Created by ravi on 28/12/15.
  */
 
 public class KafkaSerializer implements Encoder<Object> {
